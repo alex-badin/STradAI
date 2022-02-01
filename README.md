@@ -1,2 +1,2 @@
-# STradAI
+# sTradAI
 Service for stocks info aggregation and price prediction
